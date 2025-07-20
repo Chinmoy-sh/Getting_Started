@@ -1,5 +1,5 @@
 # Next.js & Cloudinary App.
-#Read tihs file to learn more...
+# Read tihs file to learn more...
 
 
 This example shows how to create an image gallery site using Next.js, [Cloudinary](https://cloudinary.com), and [Tailwind](https://tailwindcss.com).
