@@ -29,6 +29,8 @@ yarn create next-app --example with-cloudinary nextjs-image-gallery
 ```bash
 pnpm create next-app --example with-cloudinary nextjs-image-gallery
 ```
+Use your command promt or terminal or any IDE's terminal to run the codes provided and make sure your computer has compitable with the latest sdk and npm versions to run the application. <br>
+Kindly install the necessary SDK and other tools to run an app in the pc.<br>
 
 ## References
 
