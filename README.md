@@ -1,3 +1,4 @@
+# Ready to get started? Follow the steps bellow and make the first step of your journey throghout the world of programming and development.
 # Next.js & Cloudinary App.
 # Read tihs file to learn more...
 
