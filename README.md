@@ -36,7 +36,7 @@ Kindly install the necessary SDK and other tools to run an app in the pc.<br>
 There are many sources available in the youtube on how to make my pc able to the real app and software development and other programming practices and so on.
 
 
-## References
+## References: These are the API references that are used in the application for develop. 
 
 - Cloudinary API: https://cloudinary.com/documentation/transformation_reference<br>
 Thank you.<br>
