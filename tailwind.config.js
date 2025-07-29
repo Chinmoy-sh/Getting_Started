@@ -21,6 +21,7 @@ module.exports = {
     },
   },
   plugins: [],
+  
 };
 
 // /** @type {import('tailwindcss').Config} */
