@@ -39,5 +39,4 @@ There are many sources available in the youtube on how to make my pc able to the
 ## References: These are the API references that are used in the application for develop. You can also implement other resources for your own need and choices!
 
 - Cloudinary API: https://cloudinary.com/documentation/transformation_reference<br>
-Thank you.<br>
-Stay with us.
+Thank 
