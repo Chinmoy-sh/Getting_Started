@@ -43,3 +43,7 @@ There are many sources available in the youtube on how to make my pc able to the
 - Cloudinary API: <https://cloudinary.com/documentation/transformation_reference>
 
 
+
+
+
+
